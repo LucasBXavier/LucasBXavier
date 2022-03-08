@@ -1,6 +1,5 @@
 ###   <p align="center"> E ai galerinha! 🙃</p>
 
- 👨‍💻 Atualmente aprendendo C/C++, HTML, CSS, JavaScript
 
 ##
 
