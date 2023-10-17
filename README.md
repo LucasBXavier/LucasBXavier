@@ -17,12 +17,5 @@
   <img align="center" alt="Lucas-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" alt="Lucas-php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align ="center" alt="Lucas-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          
-          
+</div>
 
-          
-  
-  
- </div>
-
- ![snake animation](https://github.com/LucasBXavier/LucasBXavier/blob/output/github-contribution-grid-snake2.svg)
