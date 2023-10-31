@@ -1,3 +1,6 @@
+<img height='100em' src='https://raw.githubusercontent.com/LucasBXavier/LucasBXavier/main/assets/wave-top.png' />
+
+
 ###   <p align="center"> E ai galerinha! 🙃</p>
 
 
@@ -19,3 +22,4 @@
   <img align ="center" alt="Lucas-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
+<img height='100em' src='https://raw.githubusercontent.com/LucasBXavier/LucasBXavier/main/assets/wave-bottom.png' />
