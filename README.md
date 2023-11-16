@@ -14,12 +14,12 @@
   
   ##
   
-<div display= "inline_block" align= "center"><br>
+/*<div display= "inline_block" align= "center"><br>
   <img align="center" alt="Lucas-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />      
   <img align="center" alt="Lucas-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Lucas-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" alt="Lucas-php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align ="center" alt="Lucas-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</div>
+</div>*/
 
 <img height='100em' src='https://raw.githubusercontent.com/LucasBXavier/LucasBXavier/main/assets/wave-bottom.png' />
