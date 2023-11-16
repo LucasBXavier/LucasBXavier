@@ -1,10 +1,7 @@
 <img height='100em' src='https://raw.githubusercontent.com/LucasBXavier/LucasBXavier/main/assets/wave-top.png' />
 
+<h1 align="center">Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o Lucas</h1>  
 
-###   <p align="center"> E ai galerinha! 🙃</p>
-
-
-##
 
 <div align="center">
   <a href="https://github.com/LucasBXavier">
