@@ -13,11 +13,11 @@
   
   ##
 
-  ## <div align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> Skills:
-  </div>
+  ## <div align="center">Skills:</div>
+  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,spring" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,java,spring"/>
   </a>
 </p>
 
