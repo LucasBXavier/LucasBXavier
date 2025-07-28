@@ -19,12 +19,17 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 #### ⚙️ Backend
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java,spring"/>
 
 #### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,angular,react"/>
-
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CB6699?style=for-the-badge&logo=sass&logoColor=white)
+![JS](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🔧 Projetos em Destaque
 
