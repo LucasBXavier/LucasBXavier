@@ -56,7 +56,3 @@
 - 🌐 [Portfólio](https://lucasboareto.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-boareto-6b3964216)
 - 📫 E-mail: lucas_b.xavier@hotmail.com
-
----
-
-<p align="center">Feito com 💻, ☕ e muita vontade de criar soluções úteis.</p>
