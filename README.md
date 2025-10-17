@@ -19,16 +19,16 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 #### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=java,spring" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,net" />
 
 #### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,angular,react,bootstrap" />
 
 #### 🗄️ Banco de Dados
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
 
 #### ⚡ Ferramentas e Utilitários
-<img src="https://skillicons.dev/icons?i=docker,postman,git" />
+<img src="https://skillicons.dev/icons?i=docker,postman,git,jenkins" />
 
 
 
