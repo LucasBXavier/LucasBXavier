@@ -9,8 +9,8 @@
 ### 🚀 Sobre mim
 
 - 🎓 Graduando em Ciência da Computação
-- 🧠 Aprofundando em arquitetura de software, aplicando princípios como SOLID, TDD e Clean Code
-- 💻  foco  no desenvolvimento front-end com React/Angular, e me especializando em back-end com Spring
+- 🧠 Aprofundando em arquitetura e engenharia de software
+- 💻  foco  no desenvolvimento front-end com HTML, CSS, JS/Angular, e me especializando em back-end com Spring
 - 🔭 Desenvolvendo projetos próprios como sistemas web, templates reutilizáveis e criação de APIs  
 - 🚀 Buscando me tornar um arquiteto de software, criando soluções escaláveis, organizadas e de alto impacto
 
