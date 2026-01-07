@@ -40,6 +40,7 @@
 | [📬 Buscador de CEPs](https://github.com/LucasBXavier/busca-CEP) | Busca de endereços via API | HTML, CSS, JS, API Correios |
 | [🧩 To-Do-List](https://github.com/LucasBXavier/ToDoList) | To-Do-List feita com API rest em Spring | Springboot, Lombok, Clean Code |
 | [🏥 GastroInfo](https://github.com/LucasBXavier/GastroInfo) | Informativo de alergias, doenças e intolerancias gastrointestinais | HTML, CSS, JS, Bootstrap |
+| [☁️ springCloud](https://github.com/LucasBXavier/springCloud) | Microsserviços com Spring Cloud | Springboot, Lombok, SpringCloud, Eureka, Feign, Rest Template,  Spring Cloud Gateway |
 
 ---
 
