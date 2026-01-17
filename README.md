@@ -36,7 +36,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [📦 Portifólio pessoal](https://github.com/LucasBXavier/portifolio-angular) | Portifólio próprio para exposição de projetos | Angular, SCSS, TypeScript |
+| [📦 Portifólio pessoal](https://github.com/LucasBXavier/portifolioV2) | Portifólio próprio para exposição de projetos | HTML, CSS, JS, Bootstrap |
 | [📬 Buscador de CEPs](https://github.com/LucasBXavier/busca-CEP) | Busca de endereços via API | HTML, CSS, JS, API Correios |
 | [🧩 To-Do-List](https://github.com/LucasBXavier/ToDoList) | To-Do-List feita com API rest em Spring | Springboot, Lombok, Clean Code |
 | [🏥 GastroInfo](https://github.com/LucasBXavier/GastroInfo) | Informativo de alergias, doenças e intolerancias gastrointestinais | HTML, CSS, JS, Bootstrap |
