@@ -10,7 +10,7 @@
 
 - 🎓 Graduando em Ciência da Computação
 - 🧠 Aprofundando em arquitetura e engenharia de software
-- 💻  foco  no desenvolvimento front-end com HTML, CSS, JS/Angular, e me especializando em back-end com Spring
+- 💻  foco no desenvolvimento front-end com HTML, CSS, JS, Angular, Next.js, e me especializando em back-end com Spring
 - 🔭 Desenvolvendo projetos próprios como sistemas web, templates reutilizáveis e criação de APIs  
 - 🚀 Buscando me tornar um arquiteto de software, criando soluções escaláveis, organizadas e de alto impacto
 
