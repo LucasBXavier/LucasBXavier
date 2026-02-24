@@ -49,14 +49,14 @@
 <div align="center">
   <!-- Stats Card -->
   <picture>
-    <source srcset="./profile/stats-dark.svg" media="(prefers-color-scheme: dark)">
-    <img height="170em" src="./profile/stats-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img height="170em" src="./profile/stats-light.svg" alt="GitHub Stats">
   </picture>
 
   <!-- Top Languages Card -->
   <picture>
-    <source srcset="./profile/top-langs-dark.svg" media="(prefers-color-scheme: dark)">
-    <img height="170em" src="./profile/top-langs-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img height="170em" src="./profile/top-langs-light.svg" alt="Top Languages">
   </picture>
 </div>
 
