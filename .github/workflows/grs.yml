@@ -1,0 +1,58 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # todo dia às 3h UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # ----------------------------
+      # Stats Card - Light
+      - name: Generate stats card - light
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=default&text_color=434d58&title_color=2f80ed
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Stats Card - Dark
+      - name: Generate stats card - dark
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&text_color=ffffff&title_color=ffffff&bg_color=00000000
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Top Languages Card - Light
+      - name: Generate top-langs card - light
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=default&text_color=434d58&title_color=2f80ed
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Top Languages Card - Dark
+      - name: Generate top-langs card - dark
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=7&theme=tokyonight&text_color=ffffff&title_color=ffffff&bg_color=00000000
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Commit cards
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
