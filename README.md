@@ -63,7 +63,16 @@
 ---
 
 ### 🧭 Links Importantes
-
-- 🌐 [Portfólio](https://lucasboareto.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-boareto-6b3964216)
-- 📫 E-mail: lucas_b.xavier@hotmail.com
+<div align="left">
+  <a href="https://lucasboareto.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfólio do Lucas" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-boareto-6b3964216" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn do Lucas" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:lucasboareto.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="E-mail do Lucas" />
+  </a>
+</div>
