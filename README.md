@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,cs,net" />
 
 #### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,angular,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,angular,react,nextjs,bootstrap" />
 
 #### 🗄️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
