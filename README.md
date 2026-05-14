@@ -8,11 +8,10 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Graduando em Ciência da Computação
-- 🧠 Aprofundando em arquitetura e engenharia de software
-- 💻  foco no desenvolvimento front-end com HTML, CSS, JS, Angular, e me especializando em back-end com Spring
-- 🔭 Desenvolvendo projetos próprios como sistemas web, templates reutilizáveis e criação de APIs  
-- 🚀 Buscando me tornar um arquiteto de software, criando soluções escaláveis, organizadas e de alto impacto
+- 🎓 Estudante de Ciência da Computação apaixonado por construir software que faz sentido organizado, escalável e de verdade útil.
+- 💻 Desde 2021 venho me aprofundando no universo do desenvolvimento, com foco especial em back-end com Java e Spring. Ao longo dessa jornada, explorei desde o front-end com HTML, CSS, JS e Angular até arquitetura de       microsserviços com Spring Cloud, sempre buscando entender não só o como, mas o porquê por trás de cada decisão técnica.
+- 🎯 Hoje meu objetivo é me tornar um arquiteto de software, criando soluções que equilibram boas práticas, código limpo e impacto real. Gosto de projetos que desafiam, que ensinam e que ficam bem no portfólio. 😄
+- 💼 Aberto a oportunidades júniores — se você tem um time que valoriza boas práticas e código de qualidade, bora conversar!
 
 ---
 
@@ -41,6 +40,7 @@
 | [🧩 To-Do-List](https://github.com/LucasBXavier/ToDoList) | To-Do-List feita com API rest em Spring | Springboot, Lombok, Clean Code |
 | [🏥 GastroInfo](https://github.com/LucasBXavier/GastroInfo) | Informativo de alergias, doenças e intolerancias gastrointestinais | HTML, CSS, JS, Bootstrap |
 | [☁️ springCloud](https://github.com/LucasBXavier/springCloud) | Microsserviços com Spring Cloud | Springboot, Lombok, SpringCloud, Eureka, Feign, Rest Template,  Spring Cloud Gateway |
+|[🚗 vehiclesMaintenances](https://github.com/LucasBXavier/vehiclesMaintenances) | API REST para gerenciamento de usuários, carros, clientes, manutenções e visão financeira de veículos. | SprinBoot, Lombok, Spring Security, Spring Data JPA, PostgreSQL
 
 ---
 
