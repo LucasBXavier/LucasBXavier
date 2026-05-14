@@ -40,7 +40,7 @@
 | [🧩 To-Do-List](https://github.com/LucasBXavier/ToDoList) | To-Do-List feita com API rest em Spring | Springboot, Lombok, Clean Code |
 | [🏥 GastroInfo](https://github.com/LucasBXavier/GastroInfo) | Informativo de alergias, doenças e intolerancias gastrointestinais | HTML, CSS, JS, Bootstrap |
 | [☁️ springCloud](https://github.com/LucasBXavier/springCloud) | Microsserviços com Spring Cloud | Springboot, Lombok, SpringCloud, Eureka, Feign, Rest Template,  Spring Cloud Gateway |
-|[🚗 vehiclesMaintenances](https://github.com/LucasBXavier/vehiclesMaintenances) | API REST para gerenciamento de usuários, carros, clientes, manutenções e visão financeira de veículos. | SprinBoot, Lombok, Spring Security, Spring Data JPA, PostgreSQL
+|[🚗 vehiclesMaintenance](https://github.com/LucasBXavier/vehiclesMaintenance) | API REST para gerenciamento de usuários, carros, clientes, manutenções e visão financeira de veículos. | SprinBoot, Lombok, Spring Security, Spring Data JPA, PostgreSQL
 
 ---
 
