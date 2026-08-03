@@ -48,10 +48,10 @@
 
 <div align="center">
   <!-- Stats Card -->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
     <img height="170em" src="./profile/stats-light.svg" alt="GitHub Stats">
-  </picture>
+  </picture> -->
 
   <!-- Top Languages Card -->
   <picture>
