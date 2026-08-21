@@ -21,13 +21,13 @@
 <img src="https://skillicons.dev/icons?i=java,spring,cs,net" />
 
 #### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,angular,react,nextjs,bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs" />
 
 #### 🗄️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
 
 #### ⚡ Ferramentas e Utilitários
-<img src="https://skillicons.dev/icons?i=docker,postman,git,jenkins" />
+<img src="https://skillicons.dev/icons?i=docker,postman,git,jenkins,supabase" />
 
 
 
