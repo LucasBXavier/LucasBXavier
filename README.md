@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou Lucas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/></h1>
 
 <p align="center">
-  Estudante de Ciência da Computação | Desenvolvedor de software
+  Desenvolvedor Backend
 </p>
 
 ---
@@ -40,7 +40,7 @@
 | [🧩 To-Do-List](https://github.com/LucasBXavier/ToDoList) | To-Do-List feita com API rest em Spring | Springboot, Lombok, Clean Code |
 | [🏥 GastroInfo](https://github.com/LucasBXavier/GastroInfo) | Informativo de alergias, doenças e intolerancias gastrointestinais | HTML, CSS, JS, Bootstrap |
 | [☁️ springCloud](https://github.com/LucasBXavier/springCloud) | Microsserviços com Spring Cloud | Springboot, Lombok, SpringCloud, Eureka, Feign, Rest Template,  Spring Cloud Gateway |
-|[🚗 vehiclesMaintenance](https://github.com/LucasBXavier/vehiclesMaintenance) | API REST para gerenciamento de usuários, carros, clientes, manutenções e visão financeira de veículos. | SprinBoot, Lombok, Spring Security, Spring Data JPA, PostgreSQL
+|[🚗 MAINTORA](https://maintora.com.br) | Sistema de gerenciamento de oficinas | Springboot, Spring security, Lombok, postgreSQL, next.js
 
 ---
 
