@@ -1,17 +1,23 @@
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou Lucas <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/></h1>
 
 <p align="center">
-  Desenvolvedor Backend
+  <strong>Desenvolvedor Backend</strong><br>
+  Java • Spring Boot • APIs REST • Arquitetura de Software
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
-- 🎓 Graduando em Ciência da Computação apaixonado por construir software que faz sentido organizado, escalável e de verdade útil.
-- 💻 Desde 2021 venho me aprofundando no universo do desenvolvimento, com foco especial em back-end com Java e Spring. Ao longo dessa jornada, explorei desde o front-end com HTML, CSS, JS e Angular até arquitetura de       microsserviços com Spring Cloud, sempre buscando entender não só o como, mas o porquê por trás de cada decisão técnica.
-- 🎯 Hoje meu objetivo é me tornar um arquiteto de software, criando soluções que equilibram boas práticas, código limpo e impacto real. Gosto de projetos que desafiam, que ensinam e que ficam bem no portfólio. 😄
-- 💼 Aberto a oportunidades — se você tem um time que valoriza boas práticas e código de qualidade, bora conversar!
+Sou desenvolvedor com foco em **Back-end Java e Spring**, atualmente graduando em Ciência da Computação.
+
+Desde 2021 venho construindo projetos e explorando diferentes áreas do desenvolvimento, mas foi no back-end que encontrei meu principal interesse: **entender como transformar regras de negócio em sistemas organizados, confiáveis e fáceis de evoluir**.
+
+No dia a dia, estudo e aplico conceitos como **Java, Spring Boot, APIs REST, SOLID, TDD, Clean Architecture, DDD e microsserviços**.
+
+🎯 Meu objetivo é crescer como engenheiro de software e, no longo prazo, atuar com **arquitetura e desenho de soluções**.
+
+💼 Estou aberto a oportunidades onde possa contribuir, aprender e trabalhar com pessoas que valorizem **qualidade de código, boas práticas e evolução contínua**.
 
 ---
 
@@ -27,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
 
 #### ⚡ Ferramentas e Utilitários
-<img src="https://skillicons.dev/icons?i=docker,postman,git,jenkins,supabase" />
+<img src="https://skillicons.dev/icons?i=docker,postman,git,jenkins,githubactions,supabase" />
 
 
 
