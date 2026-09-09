@@ -48,6 +48,8 @@ No dia a dia, estudo e aplico conceitos como **Java, Spring Boot, APIs REST, SOL
 | [☁️ springCloud](https://github.com/LucasBXavier/springCloud) | Microsserviços com Spring Cloud | Springboot, Lombok, SpringCloud, Eureka, Feign, Rest Template,  Spring Cloud Gateway |
 | [🚗 MAINTORA](https://maintora.com.br) | Sistema de gerenciamento de oficinas | Springboot, Spring security, Lombok, postgreSQL, next.js |
 | [🍟 Sabor & Pote](https://lucasbxavier.github.io/sistemaFood-landing/) | sistema de controle de custos, receitas, vendas e lucro | next.js, postgreSQL, supabase |
+| [🤖 Recorte.ai](https://github.com/LucasBXavier/recorte.ai/) | Aplicativo desktop para Windows que remove o fundo de imagens com inteligência artificial | Python, CustomTkinter, rembg, Pillow, PyInstaller |
+
 
 
 ---
