@@ -53,7 +53,7 @@ On a daily basis, I study and apply concepts such as **Java, Spring Boot, REST A
 | [🚗 MAINTORA](https://maintora.com.br)                                 | Workshop management system                                                               | Spring Boot, Spring Security, Lombok, PostgreSQL, Next.js                            |
 | [🍟 Sabor & Pote](https://lucasbxavier.github.io/sistemaFood-landing/) | System for managing costs, recipes, sales, and profits                                   | Next.js, PostgreSQL, Supabase                                                        |
 | [🤖 Recorte.ai](https://github.com/LucasBXavier/recorte.ai/)           | Windows desktop application that removes image backgrounds using artificial intelligence | Python, CustomTkinter, rembg, Pillow, PyInstaller                                    |
-
+| [🍲 Panela Mágica (back)](https://github.com/LucasBXavier/panela_magica/) | REST API for recipe management with JWT authentication, user-specific access control, and recipe image storage | Java 21, Spring Boot, Spring Security, JWT, PostgreSQL, Swagger/OpenAPI |
 ---
 
 ### 📊 GitHub Stats
