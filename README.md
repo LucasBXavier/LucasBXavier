@@ -5,7 +5,6 @@
   Java • Spring Boot • REST APIs • Software Architecture
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -21,7 +20,6 @@ On a daily basis, I study and apply **Java, Spring Boot, REST APIs, SOLID, TDD, 
 
 💼 I'm open to opportunities where I can contribute, learn, and work with people who value **code quality, best practices, and continuous improvement**.
 
----
 
 ## 🦆 DuckCo
 
